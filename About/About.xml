@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>[T] RawCropThoughts</name>
+  <author>Telkir</author>
+  <url>http://ludeon.com/forums/index.php?topic=4373.0</url>
+  <targetVersion>0.17.1543</targetVersion>
+  <description>Enhances vanilla crops so that they each generate their own unique colonist thought when consumed raw, instead of a generic "ate raw food".</description>
+</ModMetaData>
